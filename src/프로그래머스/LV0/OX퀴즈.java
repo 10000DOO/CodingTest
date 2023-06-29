@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class OX퀴즈 {
     public String[] solution(String[] quiz) {
         String[] answer = new String[quiz.length];

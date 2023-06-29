@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 등수_매기기 {
     public int[] 등수_매기기(int[][] score) {
         int[] answer = new int[score.length];

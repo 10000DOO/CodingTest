@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 옹알이1 {
     public int solution(String[] babbling) {
         int answer = 0;

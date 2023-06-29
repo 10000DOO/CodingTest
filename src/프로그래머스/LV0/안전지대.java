@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 안전지대 {
     public int solution(int[][] board) {
         int answer = 0;

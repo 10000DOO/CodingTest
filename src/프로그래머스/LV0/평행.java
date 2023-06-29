@@ -1,4 +1,4 @@
-import java.util.*;
+package 프로그래머스.LV0;
 
 class 평행 {
     public double findSlope(int[] dot1, int[] dot2) {

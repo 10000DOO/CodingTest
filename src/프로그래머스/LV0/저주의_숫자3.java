@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 저주의_숫자3 {
     public int 저주의_숫자3(int n) {
         int answer = 1;

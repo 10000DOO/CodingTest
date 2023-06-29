@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 다음에_올_숫자 {
     public int solution(int[] common) {
         int answer = 0;

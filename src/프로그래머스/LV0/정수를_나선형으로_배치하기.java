@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 정수를_나선형으로_배치하기 {
     public int[][] solution(int n) {
         int[][] answer = new int[n][n];

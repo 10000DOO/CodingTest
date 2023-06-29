@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 연속된_수의_합 {
     public int[] solution(int num, int total) {
         int[] answer = new int[num];

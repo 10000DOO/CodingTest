@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 class 문자열_밀기 {
     public int 문자열_밀기(String A, String B) {
         int answer = 0;

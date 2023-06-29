@@ -1,3 +1,5 @@
+package 프로그래머스.LV0;
+
 import java.util.*;
 
 class 유한소수_판별하기 {

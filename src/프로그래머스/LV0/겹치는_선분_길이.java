@@ -1,4 +1,5 @@
-import java.util.*;
+package 프로그래머스.LV0;
+
 public class 겹치는_선분_길이 {
     public int solution(int[][] lines) {
         int[] arr = new int[201];
