@@ -1,4 +1,4 @@
-package 백준;
+package 백준.실버;
 
 import java.io.*;
 import java.util.*;

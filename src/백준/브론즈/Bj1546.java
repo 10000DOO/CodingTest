@@ -1,4 +1,4 @@
-package 백준;
+package 백준.브론즈;
 
 import java.util.Arrays;
 import java.util.Scanner;
