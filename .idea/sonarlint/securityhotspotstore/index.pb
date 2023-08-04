@@ -19,7 +19,9 @@ M
 src/백준/실버/bj1931.java,b/5/b5d903a875126dcc65a964626ec54bf68944a0f2
 M
 src/백준/실버/bj1920.java,7/a/7a3efd159baee9db2b6ba407d8f505dc4736d356
-M
-src/백준/실버/bj2751.java,e/1/e1bf347a0d993e3efb8d53ae0ce6dcd76a8b5103
 P
  src/백준/브론즈/bj1934.java,3/1/313f8eeb2bc9ac0eea9da9ebc0e1e7bbdd0ddd27
+M
+src/백준/실버/bj2751.java,e/1/e1bf347a0d993e3efb8d53ae0ce6dcd76a8b5103
+M
+src/백준/실버/bj1850.java,7/e/7eb99920ede74c6aedad3a7bdd2ca67deb86fcf4
