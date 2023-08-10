@@ -1,0 +1,12 @@
+
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğâ“°8ñæÁş1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰å¡â8òæÁş1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8òæÁş1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º¯ È8òæÁş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¤°¬ûÿÿÿÿ8óæÁş1
+n
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8„çÁş1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ8ˆçÁş1
