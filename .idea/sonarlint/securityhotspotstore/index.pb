@@ -11,18 +11,18 @@ M
 src/백준/실버/bj1747.java,2/8/28d10ea412ba90eb9076bf50045fa04c895f650c
 M
 src/백준/실버/bj1260.java,a/8/a8de12b9cc27770c740eebe7da6523309e2b5ca8
+P
+ src/백준/브론즈/bj1934.java,3/1/313f8eeb2bc9ac0eea9da9ebc0e1e7bbdd0ddd27
 M
 src/백준/실버/bj1541.java,f/7/f77a8235f4aede241e32a1d592bbdb01a84f1b5f
-M
-src/백준/실버/bj1920.java,7/a/7a3efd159baee9db2b6ba407d8f505dc4736d356
 N
 src/백준/실버/bj18352.java,9/4/94b425c92f39d0f4c4bdc7d7b7da71e704d21d00
 M
 src/백준/실버/bj1931.java,b/5/b5d903a875126dcc65a964626ec54bf68944a0f2
 M
 src/백준/실버/bj2178.java,d/6/d6582e7161b4e7cbfe350a47be7b0b50e19e2ba8
-P
- src/백준/브론즈/bj1934.java,3/1/313f8eeb2bc9ac0eea9da9ebc0e1e7bbdd0ddd27
+M
+src/백준/실버/bj1068.java,e/2/e2d96d7aa766cd1bdfcaa7f9402ba2fd5608492b
 M
 src/백준/실버/bj1325.java,5/3/53f3a28fb346a64e9a19953b6e9c6c11b672b108
 M
@@ -32,4 +32,6 @@ M
 N
 src/백준/실버/bj11725.java,2/9/29512ca248c87d466ee06f5327ac2dff5b7dc6c0
 M
-src/백준/실버/bj1068.java,e/2/e2d96d7aa766cd1bdfcaa7f9402ba2fd5608492b
+src/백준/실버/bj1920.java,7/a/7a3efd159baee9db2b6ba407d8f505dc4736d356
+M
+src/백준/실버/bj1026.java,a/8/a852834074f7beccba58a4c4f4a74a9edc11b7ca
